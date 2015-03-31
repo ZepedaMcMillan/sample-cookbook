@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="chef (v11.12.4, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="chef-zero (v2.0.2, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="chefspec (v3.4.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fauxhai (v2.1.2, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hashie (v2.0.5, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="highline (v1.6.21, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ipaddress (v0.8.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-authentication (v1.3.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-cli (v1.4.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-config (v2.1.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-log (v1.6.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mixlib-shellout (v1.4.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.8.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh-gateway (v1.2.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh-multi (v1.2.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ohai (v7.0.4, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.9.12.6, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.1.1, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.8.rc1, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v2.14.1, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v2.14.8, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v2.14.5, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v2.14.6, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="serverspec (v1.7.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="slop (v3.5.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="specinfra (v1.13.0, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="systemu (v2.5.2, ruby-1.8.7-p358) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yajl-ruby (v1.2.0, ruby-1.8.7-p358) [gem]" level="application" />
+  </component>
+</module>
